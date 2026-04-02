@@ -1,0 +1,1883 @@
+{
+  "version": "1.0.0",
+  "mcVersion": "1.20.1",
+  "forgeVersion": "47.4.10",
+  "files": [
+    {
+      "path": "advancement-count-v1.1.0b.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/advancement-count-v1.1.0b.jar",
+      "name": "advancement-count-v1.1.0b.jar",
+      "size": 261816,
+      "sha1": "439b5ce3f9b55f0d70c5e89fc11b1ba848208a47"
+    },
+    {
+      "path": "alexsmobs-1.22.9.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/alexsmobs-1.22.9.jar",
+      "name": "alexsmobs-1.22.9.jar",
+      "size": 26350793,
+      "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f"
+    },
+    {
+      "path": "amendments-1.20-2.2.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/amendments-1.20-2.2.3.jar",
+      "name": "amendments-1.20-2.2.3.jar",
+      "size": 1294274,
+      "sha1": "70f46de146e959d6abb4346a0ac7dfb04475d239"
+    },
+    {
+      "path": "ancient_bricks_[1_20_1]_2_0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/ancient_bricks_[1_20_1]_2_0.jar",
+      "name": "ancient_bricks_[1_20_1]_2_0.jar",
+      "size": 4409271,
+      "sha1": "70f46de146e959d6abb4346a0ac7dfb04475d239"
+    },
+    {
+      "path": "antixray-forge-1.4.6+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/antixray-forge-1.4.6+1.20.1.jar",
+      "name": "antixray-forge-1.4.6+1.20.1.jar",
+      "size": 304769,
+      "sha1": "06d5dad3c1c96bdb8e3498d1330ac59c01eb744e"
+    },
+    {
+      "path": "AnvilNeverTooExpensive-1.20.1-1.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/AnvilNeverTooExpensive-1.20.1-1.1.jar",
+      "name": "AnvilNeverTooExpensive-1.20.1-1.1.jar",
+      "size": 7903,
+      "sha1": "099ac070195ec98a5bf2c7c5aef88f00a9fd2c12"
+    },
+    {
+      "path": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "name": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "size": 47428,
+      "sha1": "81919356f84eab14258db98924b66c3c38e372b1"
+    },
+    {
+      "path": "aquaculturedelight-1.1.0-forge-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/aquaculturedelight-1.1.0-forge-1.20.1.jar",
+      "name": "aquaculturedelight-1.1.0-forge-1.20.1.jar",
+      "size": 214212,
+      "sha1": "6ae62b5e765d9e4e303ba975cc45edf3a354346e"
+    },
+    {
+      "path": "Arcane_EssencePlus.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Arcane_EssencePlus.jar",
+      "name": "Arcane_EssencePlus.jar",
+      "size": 25930,
+      "sha1": "a446c9c4a0ce26db56f0aa5eec636d2b2ab90916"
+    },
+    {
+      "path": "arcanists_equipage-1.0.2-20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/arcanists_equipage-1.0.2-20.1.jar",
+      "name": "arcanists_equipage-1.0.2-20.1.jar",
+      "size": 364101,
+      "sha1": "d42fbe7bff723e8865665a7296c62dd90930ea31"
+    },
+    {
+      "path": "architectury-9.2.14-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/architectury-9.2.14-forge.jar",
+      "name": "architectury-9.2.14-forge.jar",
+      "size": 580602,
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4"
+    },
+    {
+      "path": "astikorcarts-1.20.1-1.1.8.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/astikorcarts-1.20.1-1.1.8.jar",
+      "name": "astikorcarts-1.20.1-1.1.8.jar",
+      "size": 231706,
+      "sha1": "49a8ac1c23282fe86420f0b4527e522421f2f692"
+    },
+    {
+      "path": "AttributeFix-Forge-1.20.1-21.0.4.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/AttributeFix-Forge-1.20.1-21.0.4.jar",
+      "name": "AttributeFix-Forge-1.20.1-21.0.4.jar",
+      "size": 19471,
+      "sha1": "6eb69343eb21d38f95d1b1d00e6bc777bdb336fa"
+    },
+    {
+      "path": "azurelib-neo-1.20.1-3.1.2.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/azurelib-neo-1.20.1-3.1.2.jar",
+      "name": "azurelib-neo-1.20.1-3.1.2.jar",
+      "size": 1055848,
+      "sha1": "5a1f06d9270aad0697486379a8b5abebb92800b6"
+    },
+    {
+      "path": "BadOptimizations-2.4.1-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/BadOptimizations-2.4.1-1.20.1.jar",
+      "name": "BadOptimizations-2.4.1-1.20.1.jar",
+      "size": 460234,
+      "sha1": "304007dcb0fb15ed1a1bc3771736470dafc5be0f"
+    },
+    {
+      "path": "banner-flags-2.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/banner-flags-2.3.jar",
+      "name": "banner-flags-2.3.jar",
+      "size": 46176,
+      "sha1": "167d571e60a4e6f4b6a9c5fbc7cf6371acc48993"
+    },
+    {
+      "path": "barbequesdelight-1.0.5.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/barbequesdelight-1.0.5.jar",
+      "name": "barbequesdelight-1.0.5.jar",
+      "size": 867081,
+      "sha1": "e3fe166ccb3947d3c2cadcf58bdf104cf354bb0a"
+    },
+    {
+      "path": "BEB-Forge-1.20.1-6.0.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/BEB-Forge-1.20.1-6.0.0.jar",
+      "name": "BEB-Forge-1.20.1-6.0.0.jar",
+      "size": 1884205,
+      "sha1": "b35d1bc56693633a6f619347a9e1fe66277058d6"
+    },
+    {
+      "path": "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+      "name": "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+      "size": 199902,
+      "sha1": "2487eea5f1368d70e16c7c6a08c18be3b5d3c0d0"
+    },
+    {
+      "path": "better-combat-x-cataclysm-spellbooks-compatibility-1.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/better-combat-x-cataclysm-spellbooks-compatibility-1.1.jar",
+      "name": "better-combat-x-cataclysm-spellbooks-compatibility-1.1.jar",
+      "size": 8523,
+      "sha1": "f6c1428b1e16bb7d132aeb00a4e5c5d3181fa1f0"
+    },
+    {
+      "path": "BetterAdvancements-1.20.1-0.3.2.161.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/BetterAdvancements-1.20.1-0.3.2.161.jar",
+      "name": "BetterAdvancements-1.20.1-0.3.2.161.jar",
+      "size": 71898,
+      "sha1": "b6f42c2c8aa33b4bfda9d21e9474ee1fd8542ad7"
+    },
+    {
+      "path": "betterarcheology-1.2.1-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/betterarcheology-1.2.1-1.20.1.jar",
+      "name": "betterarcheology-1.2.1-1.20.1.jar",
+      "size": 982838,
+      "sha1": "c2cb928bef1c1aa89e90e72b8544b885aceb5d01"
+    },
+    {
+      "path": "bettercombat-forge-1.9.0+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/bettercombat-forge-1.9.0+1.20.1.jar",
+      "name": "bettercombat-forge-1.9.0+1.20.1.jar",
+      "size": 1054339,
+      "sha1": "ea7e7247132cb3acacadd96b2b6b635c4cc63a74"
+    },
+    {
+      "path": "betterdays-1.20.1-3.3.4.5-FORGE.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/betterdays-1.20.1-3.3.4.5-FORGE.jar",
+      "name": "betterdays-1.20.1-3.3.4.5-FORGE.jar",
+      "size": 543969,
+      "sha1": "281989d937d10266e059d4df4813cdb536531584"
+    },
+    {
+      "path": "BetterPingDisplay-1.20.1-1.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/BetterPingDisplay-1.20.1-1.1.jar",
+      "name": "BetterPingDisplay-1.20.1-1.1.jar",
+      "size": 15889,
+      "sha1": "6347a5bff9405c59ec7d428e5e24115f5b17a90b"
+    },
+    {
+      "path": "BetterThirdPerson-Forge-1.20-1.9.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/BetterThirdPerson-Forge-1.20-1.9.0.jar",
+      "name": "BetterThirdPerson-Forge-1.20-1.9.0.jar",
+      "size": 61525,
+      "sha1": "0b0a3ff3b244fa191b3f9580547071dee46f7276"
+    },
+    {
+      "path": "bigcontraptions-1.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/bigcontraptions-1.0.jar",
+      "name": "bigcontraptions-1.0.jar",
+      "size": 8540,
+      "sha1": "3bebfb40c2d232ac69214126012dd28106c3a917"
+    },
+    {
+      "path": "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "name": "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "size": 22381010,
+      "sha1": "f6ffd20b9825c4a69d93af7caed701a60bf804b5"
+    },
+    {
+      "path": "blueprint-1.20.1-7.1.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/blueprint-1.20.1-7.1.3.jar",
+      "name": "blueprint-1.20.1-7.1.3.jar",
+      "size": 1151213,
+      "sha1": "fdf9cb568546e80485ea4402a39656ed9acfa991"
+    },
+    {
+      "path": "BookOfExperience-v3.1.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/BookOfExperience-v3.1.1.jar",
+      "name": "BookOfExperience-v3.1.1.jar",
+      "size": 24037,
+      "sha1": "0d52b5559fbd3b4110cdcf16a8de94af50d12e29"
+    },
+    {
+      "path": "breezy-1.20.1-1.2.2.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/breezy-1.20.1-1.2.2.jar",
+      "name": "breezy-1.20.1-1.2.2.jar",
+      "size": 376135,
+      "sha1": "6fa7ec83d43f63e9bede90d8ff4fb1333ded71c1"
+    },
+    {
+      "path": "BrewinAndChewin-1.20.1-3.2.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/BrewinAndChewin-1.20.1-3.2.1.jar",
+      "name": "BrewinAndChewin-1.20.1-3.2.1.jar",
+      "size": 1206255,
+      "sha1": "b11a91386ef9da2569b69fd4c229b1c31dcc2eb9"
+    },
+    {
+      "path": "bucketlib-1.20.1-2.3.7.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/bucketlib-1.20.1-2.3.7.1.jar",
+      "name": "bucketlib-1.20.1-2.3.7.1.jar",
+      "size": 153080,
+      "sha1": "a1aef2d1a74ef37b3a6321524ad47dfaf7df2546"
+    },
+    {
+      "path": "caelus-forge-3.2.0+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/caelus-forge-3.2.0+1.20.1.jar",
+      "name": "caelus-forge-3.2.0+1.20.1.jar",
+      "size": 40125,
+      "sha1": "d14e8ee892d4d8764f523ad0e89bdcfc061fb007"
+    },
+    {
+      "path": "CameraOverhaul-v2.0.5-forge+mc[1.20.0-1.20.5].jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/CameraOverhaul-v2.0.5-forge+mc[1.20.0-1.20.5].jar",
+      "name": "CameraOverhaul-v2.0.5-forge+mc[1.20.0-1.20.5].jar",
+      "size": 141086,
+      "sha1": "d14e8ee892d4d8764f523ad0e89bdcfc061fb007"
+    },
+    {
+      "path": "cataclysmspells_compat.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/cataclysmspells_compat.jar",
+      "name": "cataclysmspells_compat.jar",
+      "size": 12252,
+      "sha1": "8eb29fab61f3307b715148319b91ba9df2b8b579"
+    },
+    {
+      "path": "cataclysm_spellbooks-1.2.9-1.20.1-all.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/cataclysm_spellbooks-1.2.9-1.20.1-all.jar",
+      "name": "cataclysm_spellbooks-1.2.9-1.20.1-all.jar",
+      "size": 1266452,
+      "sha1": "57fbb161849fca19aa12632944b01ce12760c4c4"
+    },
+    {
+      "path": "chatanimation-forge-1.20.1-1.1.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/chatanimation-forge-1.20.1-1.1.3.jar",
+      "name": "chatanimation-forge-1.20.1-1.1.3.jar",
+      "size": 381473,
+      "sha1": "60f1673f321534a6eb8ce1250cd0f221209daf8b"
+    },
+    {
+      "path": "chat_heads-0.14.2-forge-1.20.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/chat_heads-0.14.2-forge-1.20.jar",
+      "name": "chat_heads-0.14.2-forge-1.20.jar",
+      "size": 718678,
+      "sha1": "0410ab9636c69324e3671012af64c7743f6d6079"
+    },
+    {
+      "path": "Chunky-1.3.146.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Chunky-1.3.146.jar",
+      "name": "Chunky-1.3.146.jar",
+      "size": 341451,
+      "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50"
+    },
+    {
+      "path": "citadel-2.6.2-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/citadel-2.6.2-1.20.1.jar",
+      "name": "citadel-2.6.2-1.20.1.jar",
+      "size": 3185379,
+      "sha1": "06866f4005d3f6ba63ac01f715b352842d809bbd"
+    },
+    {
+      "path": "civillis-forge-1.0.0-release+mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/civillis-forge-1.0.0-release+mc1.20.1.jar",
+      "name": "civillis-forge-1.0.0-release+mc1.20.1.jar",
+      "size": 7523570,
+      "sha1": "ad4c78b5cf4cf365fb53a3c79607109ba8ce9189"
+    },
+    {
+      "path": "clockwork-0.5.4.6.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/clockwork-0.5.4.6.jar",
+      "name": "clockwork-0.5.4.6.jar",
+      "size": 10853410,
+      "sha1": "bccec545f69fd1422c6d7b000d6d3da97a34fa72"
+    },
+    {
+      "path": "cloth-config-11.1.136-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/cloth-config-11.1.136-forge.jar",
+      "name": "cloth-config-11.1.136-forge.jar",
+      "size": 1181413,
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f"
+    },
+    {
+      "path": "CNPC-Gecko-Addon-1.20.1-1.0.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/CNPC-Gecko-Addon-1.20.1-1.0.0.jar",
+      "name": "CNPC-Gecko-Addon-1.20.1-1.0.0.jar",
+      "size": 112675,
+      "sha1": "32a3016d15a9ef78d72e6fba435324b83501bf98"
+    },
+    {
+      "path": "collective-1.20.1-8.13.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/collective-1.20.1-8.13.jar",
+      "name": "collective-1.20.1-8.13.jar",
+      "size": 665169,
+      "sha1": "74b917dd99cd97b2f0480628a1b56958f5e0f5ad"
+    },
+    {
+      "path": "combatroll-forge-1.3.3+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/combatroll-forge-1.3.3+1.20.1.jar",
+      "name": "combatroll-forge-1.3.3+1.20.1.jar",
+      "size": 217962,
+      "sha1": "4ff92ecd8df9b5a280330f68ef9c7a8a2300b23f"
+    },
+    {
+      "path": "comforts-forge-6.4.0+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/comforts-forge-6.4.0+1.20.1.jar",
+      "name": "comforts-forge-6.4.0+1.20.1.jar",
+      "size": 382083,
+      "sha1": "e7b9fe89566bb1ee013e33745f22f309f679536e"
+    },
+    {
+      "path": "companions-forge-1.20.1-1.2.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/companions-forge-1.20.1-1.2.0.jar",
+      "name": "companions-forge-1.20.1-1.2.0.jar",
+      "size": 7016455,
+      "sha1": "7861b1fe54e4d26231ad5723a19c2dd24f91b3c2"
+    },
+    {
+      "path": "Compat_FarmersDelight.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Compat_FarmersDelight.jar",
+      "name": "Compat_FarmersDelight.jar",
+      "size": 32216,
+      "sha1": "8033b3054b6d4e49e3d49b2277cf6e7c047835f1"
+    },
+    {
+      "path": "Continents_1.21.x_v1.1.11.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Continents_1.21.x_v1.1.11.jar",
+      "name": "Continents_1.21.x_v1.1.11.jar",
+      "size": 60642,
+      "sha1": "3f3d1b0a4c46f64dc6dc86703c27288786feccd3"
+    },
+    {
+      "path": "copperagebackport-forge-1.20.1-0.1.4.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/copperagebackport-forge-1.20.1-0.1.4.jar",
+      "name": "copperagebackport-forge-1.20.1-0.1.4.jar",
+      "size": 2818863,
+      "sha1": "52d698d2b3d7e70927e1aa448528fd9d90725518"
+    },
+    {
+      "path": "copycats-3.0.4+mc.1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/copycats-3.0.4+mc.1.20.1-forge.jar",
+      "name": "copycats-3.0.4+mc.1.20.1-forge.jar",
+      "size": 1989232,
+      "sha1": "11be262d6149d01b2c808bb091a9dfb839e71a41"
+    },
+    {
+      "path": "Corgilib-Forge-1.20.1-4.0.3.4.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Corgilib-Forge-1.20.1-4.0.3.4.jar",
+      "name": "Corgilib-Forge-1.20.1-4.0.3.4.jar",
+      "size": 360700,
+      "sha1": "4b08e5f8f2580842eacd5388458a0b52411a9fb2"
+    },
+    {
+      "path": "corn_delight-1.1.9-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/corn_delight-1.1.9-1.20.1.jar",
+      "name": "corn_delight-1.1.9-1.20.1.jar",
+      "size": 172982,
+      "sha1": "896ac25f3cd3317662017a4a3f49e51eb86cf688"
+    },
+    {
+      "path": "coroutil-forge-1.20.1-1.3.7.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/coroutil-forge-1.20.1-1.3.7.jar",
+      "name": "coroutil-forge-1.20.1-1.3.7.jar",
+      "size": 64187,
+      "sha1": "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0"
+    },
+    {
+      "path": "crabbersdelight-1.20.1-1.2.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/crabbersdelight-1.20.1-1.2.3.jar",
+      "name": "crabbersdelight-1.20.1-1.2.3.jar",
+      "size": 616366,
+      "sha1": "a625f5b0e377597f7c884768ea8b9d0a81206831"
+    },
+    {
+      "path": "cratedelight-25.09.22-1.20-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/cratedelight-25.09.22-1.20-forge.jar",
+      "name": "cratedelight-25.09.22-1.20-forge.jar",
+      "size": 161081,
+      "sha1": "5b6d1c8ab260f193522630a6154ac7c35d978a47"
+    },
+    {
+      "path": "create-1.20.1-6.0.8.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/create-1.20.1-6.0.8.jar",
+      "name": "create-1.20.1-6.0.8.jar",
+      "size": 19170905,
+      "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9"
+    },
+    {
+      "path": "create-gunsmithing-1.20.1-1.4.2.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/create-gunsmithing-1.20.1-1.4.2.jar",
+      "name": "create-gunsmithing-1.20.1-1.4.2.jar",
+      "size": 1829367,
+      "sha1": "72e140975f7c9c87158d093b43791039a0cb37b8"
+    },
+    {
+      "path": "create-new-age-1.1.7b+forge-mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/create-new-age-1.1.7b+forge-mc1.20.1.jar",
+      "name": "create-new-age-1.1.7b+forge-mc1.20.1.jar",
+      "size": 1144325,
+      "sha1": "7ccececc1eb190b0cd6d9f98d1b1fb4e82e11e52"
+    },
+    {
+      "path": "createaddition-1.20.1-1.3.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/createaddition-1.20.1-1.3.3.jar",
+      "name": "createaddition-1.20.1-1.3.3.jar",
+      "size": 1577313,
+      "sha1": "c7d464c451fdc2979bc29a67d7eec2a30858af12"
+    },
+    {
+      "path": "createbigcannons-5.11.1+mc.1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/createbigcannons-5.11.1+mc.1.20.1-forge.jar",
+      "name": "createbigcannons-5.11.1+mc.1.20.1-forge.jar",
+      "size": 4039085,
+      "sha1": "9a1cb09472d86a1ebbe0d851a2474ad9030144f0"
+    },
+    {
+      "path": "createdefensive-1.8.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/createdefensive-1.8.1.jar",
+      "name": "createdefensive-1.8.1.jar",
+      "size": 2858716,
+      "sha1": "40ceadf32d2101a056961ec92e2d1f520d955e23"
+    },
+    {
+      "path": "createdieselgenerators-1.20.1-1.3.8.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/createdieselgenerators-1.20.1-1.3.8.jar",
+      "name": "createdieselgenerators-1.20.1-1.3.8.jar",
+      "size": 3121891,
+      "sha1": "abef5050bd1a700a892208ed4dd913011093d0e2"
+    },
+    {
+      "path": "createendertransmission-2.1.1-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/createendertransmission-2.1.1-1.20.1.jar",
+      "name": "createendertransmission-2.1.1-1.20.1.jar",
+      "size": 84234,
+      "sha1": "25a28e958fc9182c74bdb254c77803750ada3238"
+    },
+    {
+      "path": "CreateTankDefenses v0.80.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/CreateTankDefenses v0.80.jar",
+      "name": "CreateTankDefenses v0.80.jar",
+      "size": 7437016,
+      "sha1": "1faaf93d247e642386a8fe9a665300a8fd387a45"
+    },
+    {
+      "path": "create_connected-1.1.10-mc1.20.1-all.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/create_connected-1.1.10-mc1.20.1-all.jar",
+      "name": "create_connected-1.1.10-mc1.20.1-all.jar",
+      "size": 6567116,
+      "sha1": "329b9417c0fd52f0a5a153de31d7d075c521e900"
+    },
+    {
+      "path": "create_easy_structures-0.2-forge-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/create_easy_structures-0.2-forge-1.20.1.jar",
+      "name": "create_easy_structures-0.2-forge-1.20.1.jar",
+      "size": 473508,
+      "sha1": "cae27a3b20cf7286ae427c319e8b7f507e61043a"
+    },
+    {
+      "path": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+      "name": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+      "size": 488060,
+      "sha1": "06fbad254100a7c9fcf829e1e33c5348d9799a87"
+    },
+    {
+      "path": "create_optical-0.3.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/create_optical-0.3.1.jar",
+      "name": "create_optical-0.3.1.jar",
+      "size": 1253093,
+      "sha1": "df3ab23620718727d5c93f64d5141e4d0e38219e"
+    },
+    {
+      "path": "create_pattern_schematics-1.3.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/create_pattern_schematics-1.3.3.jar",
+      "name": "create_pattern_schematics-1.3.3.jar",
+      "size": 220784,
+      "sha1": "54ad9320a644dbcde87118e82a6dfcc81cd4757b"
+    },
+    {
+      "path": "create_rustic_structures-1.0.0-forge-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/create_rustic_structures-1.0.0-forge-1.20.1.jar",
+      "name": "create_rustic_structures-1.0.0-forge-1.20.1.jar",
+      "size": 709658,
+      "sha1": "591ffb312ba9da52a8554ef7f9377b49432db7f0"
+    },
+    {
+      "path": "create_wizardry-1.20.1-0.4.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/create_wizardry-1.20.1-0.4.1.jar",
+      "name": "create_wizardry-1.20.1-0.4.1.jar",
+      "size": 260443,
+      "sha1": "8ae2021115a453da6de5c1b54a8ac88c5e260af1"
+    },
+    {
+      "path": "critmod-1.0.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/critmod-1.0.0.jar",
+      "name": "critmod-1.0.0.jar",
+      "size": 22733,
+      "sha1": "4c0f73c4d5b33bc2d06720a2cc47aa92ba583d8d"
+    },
+    {
+      "path": "ctov-create-structures-1.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/ctov-create-structures-1.0.jar",
+      "name": "ctov-create-structures-1.0.jar",
+      "size": 106910,
+      "sha1": "0df9a99982e36f86dc1b6fd5b4c753af3c84e5ae"
+    },
+    {
+      "path": "ctov-farmers-delight-compat-2.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/ctov-farmers-delight-compat-2.1.jar",
+      "name": "ctov-farmers-delight-compat-2.1.jar",
+      "size": 197762,
+      "sha1": "b410287b852c235c7ef2735f7c683df8db84de3a"
+    },
+    {
+      "path": "ctov-irons-spells-n-spellbooks-compat-1.2.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/ctov-irons-spells-n-spellbooks-compat-1.2.jar",
+      "name": "ctov-irons-spells-n-spellbooks-compat-1.2.jar",
+      "size": 122134,
+      "sha1": "6d4d1491dfa1fd52b59e8a8050f1cb969cde300b"
+    },
+    {
+      "path": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+      "name": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+      "size": 22474,
+      "sha1": "71b1603071461e036a3ba2aaeeb52cc10fa3d348"
+    },
+    {
+      "path": "culturaldelights-0.16.5.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/culturaldelights-0.16.5.jar",
+      "name": "culturaldelights-0.16.5.jar",
+      "size": 262495,
+      "sha1": "39350afa0143814e53b9b049fe7b0af26f15ca98"
+    },
+    {
+      "path": "curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/curios-forge-5.14.1+1.20.1.jar",
+      "name": "curios-forge-5.14.1+1.20.1.jar",
+      "size": 398066,
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480"
+    },
+    {
+      "path": "CustomNPCs-GBPort-Unofficial-1.20.1.20250628.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/CustomNPCs-GBPort-Unofficial-1.20.1.20250628.jar",
+      "name": "CustomNPCs-GBPort-Unofficial-1.20.1.20250628.jar",
+      "size": 10825438,
+      "sha1": "1e2cf88cf9533c3d2378c4f95b2f014e28321c6e"
+    },
+    {
+      "path": "custom_nether_portals-forge-1.20.1-1.0.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/custom_nether_portals-forge-1.20.1-1.0.0.jar",
+      "name": "custom_nether_portals-forge-1.20.1-1.0.0.jar",
+      "size": 42110,
+      "sha1": "289075ea841a83e74115bb6d60ed513a31d2e999"
+    },
+    {
+      "path": "dcintegration-forge-3.0.7.1-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/dcintegration-forge-3.0.7.1-1.20.1.jar",
+      "name": "dcintegration-forge-3.0.7.1-1.20.1.jar",
+      "size": 16358023,
+      "sha1": "28d0562167f26d5caa71866255a163d68417edd2"
+    },
+    {
+      "path": "DimensionAccessManager-1.20.1-3.1.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/DimensionAccessManager-1.20.1-3.1.0.jar",
+      "name": "DimensionAccessManager-1.20.1-3.1.0.jar",
+      "size": 104763,
+      "sha1": "38ec5db949fc79b645d85636e4432d8d3c2e0a7f"
+    },
+    {
+      "path": "dimthread-FORGE-mc1.20.1-v1.2.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/dimthread-FORGE-mc1.20.1-v1.2.1.jar",
+      "name": "dimthread-FORGE-mc1.20.1-v1.2.1.jar",
+      "size": 444874,
+      "sha1": "89a0d375b7aa99a7c8fd28decc39f4d36b9127c9"
+    },
+    {
+      "path": "displaydelight-1.4.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/displaydelight-1.4.0.jar",
+      "name": "displaydelight-1.4.0.jar",
+      "size": 1018387,
+      "sha1": "06d5a5fcdc70d0a1b90017f5695dc65da16c370f"
+    },
+    {
+      "path": "Drip Sounds-0.5.2+1.20.4-Forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Drip Sounds-0.5.2+1.20.4-Forge.jar",
+      "name": "Drip Sounds-0.5.2+1.20.4-Forge.jar",
+      "size": 58958,
+      "sha1": "669a07ccf583536e016558a30a3404ce9e86e78c"
+    },
+    {
+      "path": "drivebywire-1.20.1-0.1.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/drivebywire-1.20.1-0.1.0.jar",
+      "name": "drivebywire-1.20.1-0.1.0.jar",
+      "size": 275713,
+      "sha1": "4a47229a5ba20249763afad9714a21c354795446"
+    },
+    {
+      "path": "dungeons+-1.8.4b.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/dungeons+-1.8.4b.jar",
+      "name": "dungeons+-1.8.4b.jar",
+      "size": 184122,
+      "sha1": "7738ad597e6489d4bd702e03aaad086acd4e77f7"
+    },
+    {
+      "path": "dungeons-and-taverns-3.0.3.f[Forge].jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/dungeons-and-taverns-3.0.3.f[Forge].jar",
+      "name": "dungeons-and-taverns-3.0.3.f[Forge].jar",
+      "size": 13161907,
+      "sha1": "7738ad597e6489d4bd702e03aaad086acd4e77f7"
+    },
+    {
+      "path": "dungeons_enhanced-1.20.1-5.4.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/dungeons_enhanced-1.20.1-5.4.3.jar",
+      "name": "dungeons_enhanced-1.20.1-5.4.3.jar",
+      "size": 1421681,
+      "sha1": "18a8163d7b9128959091d9cc95d9a14bd1db25bf"
+    },
+    {
+      "path": "DustyDecorations_1.20.1Forge_V1.10.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/DustyDecorations_1.20.1Forge_V1.10.jar",
+      "name": "DustyDecorations_1.20.1Forge_V1.10.jar",
+      "size": 4164293,
+      "sha1": "ebb28e4cfd953f29429b81bf49a1e7da0ac82491"
+    },
+    {
+      "path": "dynamiccrosshair-9.10+1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/dynamiccrosshair-9.10+1.20.1-forge.jar",
+      "name": "dynamiccrosshair-9.10+1.20.1-forge.jar",
+      "size": 879924,
+      "sha1": "9ec4f7fefa33d1be77883a080f69b2bc9c521ea4"
+    },
+    {
+      "path": "dynamiclights-v1.9-mc1.17-1.21.9-mod.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar",
+      "name": "dynamiclights-v1.9-mc1.17-1.21.9-mod.jar",
+      "size": 406570,
+      "sha1": "422cd454bf4bc662c146a4ca598fbc6b3e870ee8"
+    },
+    {
+      "path": "DynamicTrees-1.20.1-1.4.10.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/DynamicTrees-1.20.1-1.4.10.jar",
+      "name": "DynamicTrees-1.20.1-1.4.10.jar",
+      "size": 3754640,
+      "sha1": "3660eef121a1ff3a7e5d6466d03518bf0d4ccf02"
+    },
+    {
+      "path": "DynamicTreesBOP-1.20.1-3.3.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/DynamicTreesBOP-1.20.1-3.3.3.jar",
+      "name": "DynamicTreesBOP-1.20.1-3.3.3.jar",
+      "size": 413434,
+      "sha1": "ba42a7eb2f9681cd5f752ce467252d2e4c11262a"
+    },
+    {
+      "path": "DynamicTreesPlus-1.20.1-1.2.2.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/DynamicTreesPlus-1.20.1-1.2.2.jar",
+      "name": "DynamicTreesPlus-1.20.1-1.2.2.jar",
+      "size": 534713,
+      "sha1": "f05676021a219e48006bd7bb3a5b670cff443dfd"
+    },
+    {
+      "path": "easydisenchanting-forge-1.0.0-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/easydisenchanting-forge-1.0.0-1.20.1.jar",
+      "name": "easydisenchanting-forge-1.0.0-1.20.1.jar",
+      "size": 566129,
+      "sha1": "547f34ad97f04b29231ab64079b5a7e96c62cfea"
+    },
+    {
+      "path": "easy_factions-0.7.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/easy_factions-0.7.1.jar",
+      "name": "easy_factions-0.7.1.jar",
+      "size": 169711,
+      "sha1": "72526104caf3a47ab47fb6751423172eedfb6d12"
+    },
+    {
+      "path": "EggDelight-v1.2-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/EggDelight-v1.2-1.20.1.jar",
+      "name": "EggDelight-v1.2-1.20.1.jar",
+      "size": 623178,
+      "sha1": "9c0632d800e58856f7e521c0e6b04b07ffa40665"
+    },
+    {
+      "path": "ElysiumAPI-1.20.1-1.1.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/ElysiumAPI-1.20.1-1.1.3.jar",
+      "name": "ElysiumAPI-1.20.1-1.1.3.jar",
+      "size": 107624,
+      "sha1": "2ef237d14ea228118daf2e20827bb45abb92b02a"
+    },
+    {
+      "path": "embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/embeddium-0.3.31+mc1.20.1.jar",
+      "name": "embeddium-0.3.31+mc1.20.1.jar",
+      "size": 1320675,
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+    },
+    {
+      "path": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "size": 680255,
+      "sha1": "fcff067375cfe917cbf235218f49ceb58e598a5c"
+    },
+    {
+      "path": "enchantment-descriptions-java-1.3.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/enchantment-descriptions-java-1.3.0.jar",
+      "name": "enchantment-descriptions-java-1.3.0.jar",
+      "size": 3574251,
+      "sha1": "9c02acc2425b3789d4f8911f12055aa40d832027"
+    },
+    {
+      "path": "endergetic-1.20.1-5.0.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/endergetic-1.20.1-5.0.1.jar",
+      "name": "endergetic-1.20.1-5.0.1.jar",
+      "size": 15611923,
+      "sha1": "6b555cbb2582c2580a9ac646abd5da2b4449837c"
+    },
+    {
+      "path": "endermanoverhaul-forge-1.20.1-1.0.4.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/endermanoverhaul-forge-1.20.1-1.0.4.jar",
+      "name": "endermanoverhaul-forge-1.20.1-1.0.4.jar",
+      "size": 1208062,
+      "sha1": "636a2b20a5973fcb80016370865cb4251e029b6a"
+    },
+    {
+      "path": "enhancedmastery-1.0.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/enhancedmastery-1.0.0.jar",
+      "name": "enhancedmastery-1.0.0.jar",
+      "size": 187746,
+      "sha1": "a361ee4b510b2497e80e1ddc41236e98eb89bf68"
+    },
+    {
+      "path": "entityculling-forge-1.9.5-mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/entityculling-forge-1.9.5-mc1.20.1.jar",
+      "name": "entityculling-forge-1.9.5-mc1.20.1.jar",
+      "size": 1569588,
+      "sha1": "524be2ed63e9f131a17393ead67cd3fddc97ca2b"
+    },
+    {
+      "path": "epic-structures-villages-1.2.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/epic-structures-villages-1.2.0.jar",
+      "name": "epic-structures-villages-1.2.0.jar",
+      "size": 6464220,
+      "sha1": "5c9756b32a83ad17264ffd885de2700abfac7b0d"
+    },
+    {
+      "path": "eureka-1201-1.6.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/eureka-1201-1.6.1.jar",
+      "name": "eureka-1201-1.6.1.jar",
+      "size": 462497,
+      "sha1": "bd7a9794bc4b8be4cf3d1d90012b1390f7463033"
+    },
+    {
+      "path": "exposure-1.20.1-1.7.16-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/exposure-1.20.1-1.7.16-forge.jar",
+      "name": "exposure-1.20.1-1.7.16-forge.jar",
+      "size": 1360685,
+      "sha1": "b1ec92eeafdc97e88e0baacd5d89f4c1f89a4bbc"
+    },
+    {
+      "path": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+      "name": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+      "size": 3065813,
+      "sha1": "285c22b2567b9fdf98ef9808eceb5557de9611d3"
+    },
+    {
+      "path": "fallingleaves-1.20.1-2.1.2.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/fallingleaves-1.20.1-2.1.2.jar",
+      "name": "fallingleaves-1.20.1-2.1.2.jar",
+      "size": 124212,
+      "sha1": "b890536f44a5c0a49f2b1f4af91c17d948b4ef4d"
+    },
+    {
+      "path": "FarmersDelight-1.20.1-1.2.9.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/FarmersDelight-1.20.1-1.2.9.jar",
+      "name": "FarmersDelight-1.20.1-1.2.9.jar",
+      "size": 2978080,
+      "sha1": "ca9417c369e75d38dacdac59937223e5f6adcc18"
+    },
+    {
+      "path": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+      "name": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+      "size": 66989,
+      "sha1": "27d58f123951e0404c94caf16ff9b96b442f371c"
+    },
+    {
+      "path": "ferritecore-6.0.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/ferritecore-6.0.1-forge.jar",
+      "name": "ferritecore-6.0.1-forge.jar",
+      "size": 123034,
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+    },
+    {
+      "path": "Festive_Delight_1.3_Forge_1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Festive_Delight_1.3_Forge_1.20.1.jar",
+      "name": "Festive_Delight_1.3_Forge_1.20.1.jar",
+      "size": 250492,
+      "sha1": "c29bc770ce94cc2dcfd49be7df6338b44df0abe6"
+    },
+    {
+      "path": "fishermens_trap-2.1.4.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/fishermens_trap-2.1.4.jar",
+      "name": "fishermens_trap-2.1.4.jar",
+      "size": 81928,
+      "sha1": "f3a4cf1ff9f320c85900f8acf0f17629ed795dc6"
+    },
+    {
+      "path": "framework-forge-1.20.1-0.7.15.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/framework-forge-1.20.1-0.7.15.jar",
+      "name": "framework-forge-1.20.1-0.7.15.jar",
+      "size": 309560,
+      "sha1": "0963ba5c19634030dbf1358b5c5f5fb341fede73"
+    },
+    {
+      "path": "freecam-forge-1.2.1+1.20.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/freecam-forge-1.2.1+1.20.jar",
+      "name": "freecam-forge-1.2.1+1.20.jar",
+      "size": 75389,
+      "sha1": "e4224b56750a1fe3956ae73a65f4470be3e0df3b"
+    },
+    {
+      "path": "Furniture-Beetle-1.20.1-0.7.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Furniture-Beetle-1.20.1-0.7.0.jar",
+      "name": "Furniture-Beetle-1.20.1-0.7.0.jar",
+      "size": 607388,
+      "sha1": "ba49144979d69bf58efc45444bc86e1f8344b74c"
+    },
+    {
+      "path": "furnituresoplenty-1.20.1-1.0.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/furnituresoplenty-1.20.1-1.0.1.jar",
+      "name": "furnituresoplenty-1.20.1-1.0.1.jar",
+      "size": 1108542,
+      "sha1": "bcaee426046abbd91d4b4310de8784abdcc617d9"
+    },
+    {
+      "path": "geckolib-forge-1.20.1-4.8.2.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/geckolib-forge-1.20.1-4.8.2.jar",
+      "name": "geckolib-forge-1.20.1-4.8.2.jar",
+      "size": 1038979,
+      "sha1": "395a9f21a36dc8466d67c2af67a904e7013460d1"
+    },
+    {
+      "path": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "name": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "size": 87551,
+      "sha1": "bba0b08fe76b28b35243fee53f99d54a18153b53"
+    },
+    {
+      "path": "golemoverhaul-forge-1.20.1-1.1.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/golemoverhaul-forge-1.20.1-1.1.0.jar",
+      "name": "golemoverhaul-forge-1.20.1-1.1.0.jar",
+      "size": 1039298,
+      "sha1": "57a7c3c8b38744629ec491553625adb9a987530c"
+    },
+    {
+      "path": "grim-kingdoms-lost-structures-ruins-1.20.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/grim-kingdoms-lost-structures-ruins-1.20.jar",
+      "name": "grim-kingdoms-lost-structures-ruins-1.20.jar",
+      "size": 6698213,
+      "sha1": "a55d89b2be8ab5000687f32ccd8276cd7e6e8edf"
+    },
+    {
+      "path": "handcrafted-forge-1.20.1-3.0.6.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/handcrafted-forge-1.20.1-3.0.6.jar",
+      "name": "handcrafted-forge-1.20.1-3.0.6.jar",
+      "size": 7111059,
+      "sha1": "f1b9a009529134c736c59d6d192d53a4a25e5e5f"
+    },
+    {
+      "path": "hide-item-frame-forge-1.3+1.17.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/hide-item-frame-forge-1.3+1.17.1.jar",
+      "name": "hide-item-frame-forge-1.3+1.17.1.jar",
+      "size": 48760,
+      "sha1": "d28a58f6159c07caccd4161d05f31ca4e790a334"
+    },
+    {
+      "path": "Highlighter-1.20.1-forge-1.1.9.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Highlighter-1.20.1-forge-1.1.9.jar",
+      "name": "Highlighter-1.20.1-forge-1.1.9.jar",
+      "size": 29438,
+      "sha1": "644dc33b1745ad100f513b4d169ace86fff3b2bf"
+    },
+    {
+      "path": "HopoBetterMineshaft-[1.20.1-1.20.4]-1.2.2d.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/HopoBetterMineshaft-[1.20.1-1.20.4]-1.2.2d.jar",
+      "name": "HopoBetterMineshaft-[1.20.1-1.20.4]-1.2.2d.jar",
+      "size": 4046100,
+      "sha1": "644dc33b1745ad100f513b4d169ace86fff3b2bf"
+    },
+    {
+      "path": "Iceberg-1.20.1-forge-1.1.25.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Iceberg-1.20.1-forge-1.1.25.jar",
+      "name": "Iceberg-1.20.1-forge-1.1.25.jar",
+      "size": 134551,
+      "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b"
+    },
+    {
+      "path": "idontwantportalyet-1.20-1.9.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/idontwantportalyet-1.20-1.9.jar",
+      "name": "idontwantportalyet-1.20-1.9.jar",
+      "size": 163305,
+      "sha1": "30b93c2a4050e2871a9e44ad4fc805079346c457"
+    },
+    {
+      "path": "ImmediatelyFast-Forge-1.5.3+1.20.4.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/ImmediatelyFast-Forge-1.5.3+1.20.4.jar",
+      "name": "ImmediatelyFast-Forge-1.5.3+1.20.4.jar",
+      "size": 426980,
+      "sha1": "d4695d013e9da7089e2906db3f56bc5398e478e2"
+    },
+    {
+      "path": "immersive_armors-1.7.1+1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/immersive_armors-1.7.1+1.20.1-forge.jar",
+      "name": "immersive_armors-1.7.1+1.20.1-forge.jar",
+      "size": 1264289,
+      "sha1": "5311ad33c339bbed4f1c66830a9f19d285d4cad3"
+    },
+    {
+      "path": "immersive_melodies-0.6.0+1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/immersive_melodies-0.6.0+1.20.1-forge.jar",
+      "name": "immersive_melodies-0.6.0+1.20.1-forge.jar",
+      "size": 5517578,
+      "sha1": "688f2b905c99a2d2c86f016eb09712d978f99102"
+    },
+    {
+      "path": "immersive_optimization-forge-1.20.1-0.1.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/immersive_optimization-forge-1.20.1-0.1.0.jar",
+      "name": "immersive_optimization-forge-1.20.1-0.1.0.jar",
+      "size": 51912,
+      "sha1": "58a2e199bf7992edb6ac765e7694be96cb53efde"
+    },
+    {
+      "path": "incapacitated-1.20.1-1.4.4.2.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/incapacitated-1.20.1-1.4.4.2.jar",
+      "name": "incapacitated-1.20.1-1.4.4.2.jar",
+      "size": 54587,
+      "sha1": "4656516660ab7f9dd8f64dc5e109ed1acffcd99c"
+    },
+    {
+      "path": "inventoryhud.forge.1.20.1-3.4.26.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/inventoryhud.forge.1.20.1-3.4.26.jar",
+      "name": "inventoryhud.forge.1.20.1-3.4.26.jar",
+      "size": 238088,
+      "sha1": "f0adda10a3d6549e6dfdffd41e72270c61c8a302"
+    },
+    {
+      "path": "InventoryProfilesNext-forge-1.20-1.10.19.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/InventoryProfilesNext-forge-1.20-1.10.19.jar",
+      "name": "InventoryProfilesNext-forge-1.20-1.10.19.jar",
+      "size": 1456863,
+      "sha1": "432f4b107b13818bd2c1d16dccc9212da61e2a17"
+    },
+    {
+      "path": "irons_spellbooks-1.20.1-3.15.2.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/irons_spellbooks-1.20.1-3.15.2.jar",
+      "name": "irons_spellbooks-1.20.1-3.15.2.jar",
+      "size": 14222065,
+      "sha1": "2cfc89ec6b5271ae18a00063b12fdb1cc23385ba"
+    },
+    {
+      "path": "Jadens-Nether-Expansion-2.3.5.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Jadens-Nether-Expansion-2.3.5.jar",
+      "name": "Jadens-Nether-Expansion-2.3.5.jar",
+      "size": 23488061,
+      "sha1": "bfb10b56cb5dcc34f3643472aa09bc4120808d31"
+    },
+    {
+      "path": "jei-1.20.1-forge-15.20.0.129.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/jei-1.20.1-forge-15.20.0.129.jar",
+      "name": "jei-1.20.1-forge-15.20.0.129.jar",
+      "size": 1409642,
+      "sha1": "eba88424bd28c8bce0e49da13ada71cd47148b47"
+    },
+    {
+      "path": "KeepSomeInventory-v1.3.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/KeepSomeInventory-v1.3.3.jar",
+      "name": "KeepSomeInventory-v1.3.3.jar",
+      "size": 112397,
+      "sha1": "b8a56d8977b89d4c42701c8c9df5fc1778123b7b"
+    },
+    {
+      "path": "kleiders_custom_renderer-7.4.1-forge-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/kleiders_custom_renderer-7.4.1-forge-1.20.1.jar",
+      "name": "kleiders_custom_renderer-7.4.1-forge-1.20.1.jar",
+      "size": 47876,
+      "sha1": "9f0f94ed3dd661b542e92d10aa40c8426117b36c"
+    },
+    {
+      "path": "knightlib-forge-1.20.1-1.4.2.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/knightlib-forge-1.20.1-1.4.2.jar",
+      "name": "knightlib-forge-1.20.1-1.4.2.jar",
+      "size": 252409,
+      "sha1": "f4dc471de8a845aea861cc5e6451d46241f637a3"
+    },
+    {
+      "path": "kotlinforforge-4.12.0-all.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/kotlinforforge-4.12.0-all.jar",
+      "name": "kotlinforforge-4.12.0-all.jar",
+      "size": 7442998,
+      "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22"
+    },
+    {
+      "path": "lagprotection-2.2.0-forge-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/lagprotection-2.2.0-forge-1.20.1.jar",
+      "name": "lagprotection-2.2.0-forge-1.20.1.jar",
+      "size": 20546,
+      "sha1": "c517e88a55f294fe96aa44a2c12f387a9a420a26"
+    },
+    {
+      "path": "LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+      "name": "LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+      "size": 55258,
+      "sha1": "7d83a56572d333ea352706872f565b8b8537085c"
+    },
+    {
+      "path": "letsdo-API-forge-1.2.15-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/letsdo-API-forge-1.2.15-forge.jar",
+      "name": "letsdo-API-forge-1.2.15-forge.jar",
+      "size": 1440591,
+      "sha1": "a261043a45097d861a13a63ebdbb0ca350e06a63"
+    },
+    {
+      "path": "letsdo-brewery-forge-2.0.6.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/letsdo-brewery-forge-2.0.6.jar",
+      "name": "letsdo-brewery-forge-2.0.6.jar",
+      "size": 2048413,
+      "sha1": "ce364781ec9accfdd5bb04f8280ffb542243b1ae"
+    },
+    {
+      "path": "letsdo-farm_and_charm-forge-1.0.14.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/letsdo-farm_and_charm-forge-1.0.14.jar",
+      "name": "letsdo-farm_and_charm-forge-1.0.14.jar",
+      "size": 2328624,
+      "sha1": "4db017c18fff8356e1aa5f0e9c683f1af30bec2b"
+    },
+    {
+      "path": "letsdo-vinery-forge-1.4.41.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/letsdo-vinery-forge-1.4.41.jar",
+      "name": "letsdo-vinery-forge-1.4.41.jar",
+      "size": 2041283,
+      "sha1": "68ed3fa9524bef601064f49f60a30423db2f8fdc"
+    },
+    {
+      "path": "libIPN-forge-1.20-4.0.2.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/libIPN-forge-1.20-4.0.2.jar",
+      "name": "libIPN-forge-1.20-4.0.2.jar",
+      "size": 693301,
+      "sha1": "3e7c7fcdc037a6ae3d9146e718d87fc83f88f6d5"
+    },
+    {
+      "path": "Library_of_Exile-1.20.1-2.1.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Library_of_Exile-1.20.1-2.1.3.jar",
+      "name": "Library_of_Exile-1.20.1-2.1.3.jar",
+      "size": 630415,
+      "sha1": "a4282bd8c298874ac6d494875c278e1920eddbe4"
+    },
+    {
+      "path": "lionfishapi-2.4.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/lionfishapi-2.4.jar",
+      "name": "lionfishapi-2.4.jar",
+      "size": 165468,
+      "sha1": "904f098cdccb2c61623aaa466dff3f6c8c6a0977"
+    },
+    {
+      "path": "lithostitched-forge-1.20.1-1.4.11.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/lithostitched-forge-1.20.1-1.4.11.jar",
+      "name": "lithostitched-forge-1.20.1-1.4.11.jar",
+      "size": 476347,
+      "sha1": "d1a755de84ee5d8910ff1e65e815473056e93ece"
+    },
+    {
+      "path": "LuckPerms-Forge-5.4.102.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/LuckPerms-Forge-5.4.102.jar",
+      "name": "LuckPerms-Forge-5.4.102.jar",
+      "size": 1398478,
+      "sha1": "00597f94cd1f88a468202c1fa0495106f000d564"
+    },
+    {
+      "path": "lukis-woodland-mansions-v.1.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/lukis-woodland-mansions-v.1.0.jar",
+      "name": "lukis-woodland-mansions-v.1.0.jar",
+      "size": 1455004,
+      "sha1": "b3dd7845f2721c51bad97206c0db3ffd2c09050a"
+    },
+    {
+      "path": "Luminous Monsters V1.2.8 - Forge 1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Luminous Monsters V1.2.8 - Forge 1.20.1.jar",
+      "name": "Luminous Monsters V1.2.8 - Forge 1.20.1.jar",
+      "size": 825004,
+      "sha1": "3025fc2d490f72668f1280211b5ce5ede6073b0e"
+    },
+    {
+      "path": "Luminous Overworld V1.5.3 - Forge 1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Luminous Overworld V1.5.3 - Forge 1.20.1.jar",
+      "name": "Luminous Overworld V1.5.3 - Forge 1.20.1.jar",
+      "size": 23357080,
+      "sha1": "bcd30818f5b49ccb25fb5be0910d74538f7e33d2"
+    },
+    {
+      "path": "LuminousBeast V1.2.6 - Forge 1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/LuminousBeast V1.2.6 - Forge 1.20.1.jar",
+      "name": "LuminousBeast V1.2.6 - Forge 1.20.1.jar",
+      "size": 25915005,
+      "sha1": "72d2977891da8fe6975a67e55dfa207c80dbb032"
+    },
+    {
+      "path": "L_Enders_Cataclysm-3.16.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/L_Enders_Cataclysm-3.16.jar",
+      "name": "L_Enders_Cataclysm-3.16.jar",
+      "size": 127993805,
+      "sha1": "25d84c486a817ba54362ea1f4b82b6d3802cc074"
+    },
+    {
+      "path": "mcw-bridges-3.1.0-mc1.20.1forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/mcw-bridges-3.1.0-mc1.20.1forge.jar",
+      "name": "mcw-bridges-3.1.0-mc1.20.1forge.jar",
+      "size": 684392,
+      "sha1": "7a94bff9e9c2408c6c36e64d5c911e5759cddc10"
+    },
+    {
+      "path": "mcw-doors-1.1.2-mc1.20.1forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/mcw-doors-1.1.2-mc1.20.1forge.jar",
+      "name": "mcw-doors-1.1.2-mc1.20.1forge.jar",
+      "size": 1250199,
+      "sha1": "731069f0a9c1377da0681415b6523e71439ae014"
+    },
+    {
+      "path": "mcw-holidays-1.1.2-mc1.20.1forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/mcw-holidays-1.1.2-mc1.20.1forge.jar",
+      "name": "mcw-holidays-1.1.2-mc1.20.1forge.jar",
+      "size": 1054907,
+      "sha1": "dd125b79755ebd99aac3354b4670a5dd3c8086bd"
+    },
+    {
+      "path": "mcw-lights-1.1.5-mc1.20.1forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/mcw-lights-1.1.5-mc1.20.1forge.jar",
+      "name": "mcw-lights-1.1.5-mc1.20.1forge.jar",
+      "size": 547779,
+      "sha1": "76dde38745ad436f2784f71939dc0941d7d51c6e"
+    },
+    {
+      "path": "mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+      "name": "mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+      "size": 708634,
+      "sha1": "d24bc6e1ba7f04e058db019ae5ca3d10edd9510a"
+    },
+    {
+      "path": "mcw-mcwstairs-1.0.2-mc1.20.1forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar",
+      "name": "mcw-mcwstairs-1.0.2-mc1.20.1forge.jar",
+      "size": 554055,
+      "sha1": "8f3a8271e43b53171c3a4d4827415bebd06775d9"
+    },
+    {
+      "path": "mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "name": "mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "size": 1320692,
+      "sha1": "214da89b2153d496343bde8626283975e358edbd"
+    },
+    {
+      "path": "mcw-roofs-2.3.2-mc1.20.1forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/mcw-roofs-2.3.2-mc1.20.1forge.jar",
+      "name": "mcw-roofs-2.3.2-mc1.20.1forge.jar",
+      "size": 1864023,
+      "sha1": "2b02beb2bd177aa695dc6fc030fc3bb230ca96b1"
+    },
+    {
+      "path": "mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+      "name": "mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+      "size": 604510,
+      "sha1": "1b3b4b40041346b19bc9ab280b288a9f6b77b513"
+    },
+    {
+      "path": "medieval_buildings_nether_edition-1.20.1-1.0.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/medieval_buildings_nether_edition-1.20.1-1.0.1-forge.jar",
+      "name": "medieval_buildings_nether_edition-1.20.1-1.0.1-forge.jar",
+      "size": 722790,
+      "sha1": "3e0a9b80e457905f16c68e2df4e1e344575d6570"
+    },
+    {
+      "path": "miners_delight-1.20.1-1.2.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/miners_delight-1.20.1-1.2.3.jar",
+      "name": "miners_delight-1.20.1-1.2.3.jar",
+      "size": 474112,
+      "sha1": "817ab785307e34895900fa23ce9d5dc4ee8eadf5"
+    },
+    {
+      "path": "mobtimizations-forge-1.20.1-1.0.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/mobtimizations-forge-1.20.1-1.0.1.jar",
+      "name": "mobtimizations-forge-1.20.1-1.0.1.jar",
+      "size": 27943,
+      "sha1": "7a1f74a0cc178013808b09f409341d7277ebb72a"
+    },
+    {
+      "path": "modernfix-forge-5.25.2+mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/modernfix-forge-5.25.2+mc1.20.1.jar",
+      "name": "modernfix-forge-5.25.2+mc1.20.1.jar",
+      "size": 895444,
+      "sha1": "4069534174e618393f0c14d9dc61ac27a04bb992"
+    },
+    {
+      "path": "mods_optimizer-forge-1.20.1-4.3.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/mods_optimizer-forge-1.20.1-4.3.0.jar",
+      "name": "mods_optimizer-forge-1.20.1-4.3.0.jar",
+      "size": 208033,
+      "sha1": "c685e02db02ab9779e3b726bc716ef03cf4da365"
+    },
+    {
+      "path": "moonlight-1.20-2.16.21-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/moonlight-1.20-2.16.21-forge.jar",
+      "name": "moonlight-1.20-2.16.21-forge.jar",
+      "size": 1389157,
+      "sha1": "81054a1ec290b7a5263c60d3ab8fa73005b79274"
+    },
+    {
+      "path": "moredelight-25.07.28-1.20-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/moredelight-25.07.28-1.20-forge.jar",
+      "name": "moredelight-25.07.28-1.20-forge.jar",
+      "size": 144074,
+      "sha1": "a13f7413da77910145c2c914d0b81819c3f2b7b2"
+    },
+    {
+      "path": "more_stone_tools-1.0.0-forge-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/more_stone_tools-1.0.0-forge-1.20.1.jar",
+      "name": "more_stone_tools-1.0.0-forge-1.20.1.jar",
+      "size": 905105,
+      "sha1": "5789f2f3ecc7d660a7a565cd33c6c203768a2cd5"
+    },
+    {
+      "path": "Mutated-Items-3.0.0-forge-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Mutated-Items-3.0.0-forge-1.20.1.jar",
+      "name": "Mutated-Items-3.0.0-forge-1.20.1.jar",
+      "size": 770379,
+      "sha1": "ce865839f4bb9f766a593953bb7194f532e90334"
+    },
+    {
+      "path": "mysterious_mountain_lib-1.6.30-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/mysterious_mountain_lib-1.6.30-1.20.1.jar",
+      "name": "mysterious_mountain_lib-1.6.30-1.20.1.jar",
+      "size": 325540,
+      "sha1": "266368755f96e6cbd68f6cb7e2de0a566fb7f2a7"
+    },
+    {
+      "path": "naturalist-5.0pre2+forge-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/naturalist-5.0pre2+forge-1.20.1.jar",
+      "name": "naturalist-5.0pre2+forge-1.20.1.jar",
+      "size": 3793857,
+      "sha1": "e0ddee72643c92f2b4754fa4d24c16d79eba343a"
+    },
+    {
+      "path": "nethersdelight-1.20.1-4.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/nethersdelight-1.20.1-4.0.jar",
+      "name": "nethersdelight-1.20.1-4.0.jar",
+      "size": 366047,
+      "sha1": "c6da9c681bf2ec1d7b3e96db739c2b1113f6b838"
+    },
+    {
+      "path": "no-more-ocean-monuments-1.0.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/no-more-ocean-monuments-1.0.1.jar",
+      "name": "no-more-ocean-monuments-1.0.1.jar",
+      "size": 12241,
+      "sha1": "ed8f115ef631bbdf887062c0c534468a0f9a8df5"
+    },
+    {
+      "path": "notenoughanimations-forge-1.11.1-mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/notenoughanimations-forge-1.11.1-mc1.20.1.jar",
+      "name": "notenoughanimations-forge-1.11.1-mc1.20.1.jar",
+      "size": 1933839,
+      "sha1": "9aa8917d7c0a5311dc495da3c720434de49e0e24"
+    },
+    {
+      "path": "ntgl-1.20.1-3.0.6.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/ntgl-1.20.1-3.0.6.jar",
+      "name": "ntgl-1.20.1-3.0.6.jar",
+      "size": 3943878,
+      "sha1": "56219f2c0ef01b23f9b32a7264e77add04277568"
+    },
+    {
+      "path": "oceanic_delight-1.0.3-forge-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/oceanic_delight-1.0.3-forge-1.20.1.jar",
+      "name": "oceanic_delight-1.0.3-forge-1.20.1.jar",
+      "size": 289149,
+      "sha1": "65e14fdfdd00a0772dced2f57617accb83ec39dd"
+    },
+    {
+      "path": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "name": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "size": 424035,
+      "sha1": "9eab28baff36942e1c924489e34753df10f40208"
+    },
+    {
+      "path": "oculus-mc1.20.1-1.8.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/oculus-mc1.20.1-1.8.0.jar",
+      "name": "oculus-mc1.20.1-1.8.0.jar",
+      "size": 2851119,
+      "sha1": "984f774e71790deaec674c7587bd24e0711871b2"
+    },
+    {
+      "path": "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+      "name": "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+      "size": 864398,
+      "sha1": "1e8d8e9688a04df5177a46036d6f34c83194686c"
+    },
+    {
+      "path": "phantasm-1.0.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/phantasm-1.0.1.jar",
+      "name": "phantasm-1.0.1.jar",
+      "size": 7174329,
+      "sha1": "c2b85872a2843a168a1c548c764250287caf317e"
+    },
+    {
+      "path": "PhilipsRuins1.20.1-5.7.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/PhilipsRuins1.20.1-5.7.jar",
+      "name": "PhilipsRuins1.20.1-5.7.jar",
+      "size": 1525512,
+      "sha1": "2b5ca7b5adc7feb6721ce6406fcd903e4c382c38"
+    },
+    {
+      "path": "piglingoldtrim-1.0.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/piglingoldtrim-1.0.0.jar",
+      "name": "piglingoldtrim-1.0.0.jar",
+      "size": 3976,
+      "sha1": "918ec3f3c53f789a3da3955e828f17d2071a3db0"
+    },
+    {
+      "path": "Platform-forge-1.20.1-1.2.11.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Platform-forge-1.20.1-1.2.11.3.jar",
+      "name": "Platform-forge-1.20.1-1.2.11.3.jar",
+      "size": 512498,
+      "sha1": "cea96c84a359f202f89622626a7625c41572804a"
+    },
+    {
+      "path": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "size": 181437,
+      "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a"
+    },
+    {
+      "path": "polymorph-forge-0.49.10+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/polymorph-forge-0.49.10+1.20.1.jar",
+      "name": "polymorph-forge-0.49.10+1.20.1.jar",
+      "size": 299601,
+      "sha1": "e4afd6f512cc06311320357ed974cee586e031c3"
+    },
+    {
+      "path": "potion-cauldron-forge-1.0.1+mc1.20.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/potion-cauldron-forge-1.0.1+mc1.20.jar",
+      "name": "potion-cauldron-forge-1.0.1+mc1.20.jar",
+      "size": 115195,
+      "sha1": "fd85b61a9e1149d42e23b750514f20a58639347b"
+    },
+    {
+      "path": "Prism-1.20.1-forge-1.0.5.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Prism-1.20.1-forge-1.0.5.jar",
+      "name": "Prism-1.20.1-forge-1.0.5.jar",
+      "size": 52205,
+      "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3"
+    },
+    {
+      "path": "projectile_damage-forge-3.2.2+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/projectile_damage-forge-3.2.2+1.20.1.jar",
+      "name": "projectile_damage-forge-3.2.2+1.20.1.jar",
+      "size": 251688,
+      "sha1": "9c7378a0b9905d032c8bb5a6f72866229bfe4ed6"
+    },
+    {
+      "path": "prometheus-forge-1.20.1-1.2.5.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/prometheus-forge-1.20.1-1.2.5.jar",
+      "name": "prometheus-forge-1.20.1-1.2.5.jar",
+      "size": 818179,
+      "sha1": "21eaa382cea74c4a48defc354a1dae4ab7e1f11c"
+    },
+    {
+      "path": "protection_pixel-2.2.1-forge-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/protection_pixel-2.2.1-forge-1.20.1.jar",
+      "name": "protection_pixel-2.2.1-forge-1.20.1.jar",
+      "size": 3256926,
+      "sha1": "c8cd71946891539fe0d1af9b5970a00865d7336c"
+    },
+    {
+      "path": "Quick Skin - Forge - 1.20.1-2.6.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Quick Skin - Forge - 1.20.1-2.6.0.jar",
+      "name": "Quick Skin - Forge - 1.20.1-2.6.0.jar",
+      "size": 3714676,
+      "sha1": "db3bd9ce512eac1358341af7a375596fee3b726a"
+    },
+    {
+      "path": "rainbegoneritual-1.20.1-3.5.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/rainbegoneritual-1.20.1-3.5.jar",
+      "name": "rainbegoneritual-1.20.1-3.5.jar",
+      "size": 31986,
+      "sha1": "df09634da36f4f1ca301d935556e14e45a91c317"
+    },
+    {
+      "path": "recipes-plus-1.2.4.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/recipes-plus-1.2.4.jar",
+      "name": "recipes-plus-1.2.4.jar",
+      "size": 756140,
+      "sha1": "871e6e654a39496cdf90dd64938cfe620a21e748"
+    },
+    {
+      "path": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "name": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "size": 6689588,
+      "sha1": "ffb68135b88bdbb25224378c76daf922c3f4c322"
+    },
+    {
+      "path": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "name": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "size": 136923,
+      "sha1": "597d40920dcc935f963842c817dcc4901862ab14"
+    },
+    {
+      "path": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "name": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "size": 432753,
+      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
+    },
+    {
+      "path": "Revamped Shipwrecks 1.1.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Revamped Shipwrecks 1.1.0.jar",
+      "name": "Revamped Shipwrecks 1.1.0.jar",
+      "size": 6935951,
+      "sha1": "9cc0d86f14ebc88df141835930681b4a96aa7204"
+    },
+    {
+      "path": "rha-1.2.3-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/rha-1.2.3-1.20.1.jar",
+      "name": "rha-1.2.3-1.20.1.jar",
+      "size": 1098220,
+      "sha1": "0e6571a4389f00654e76fe7439c5989bdd82c119"
+    },
+    {
+      "path": "riding_partners-forge-1.0.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/riding_partners-forge-1.0.0.jar",
+      "name": "riding_partners-forge-1.0.0.jar",
+      "size": 10208,
+      "sha1": "392a73eff60f874bd3f29f1d977eafaa1eeee434"
+    },
+    {
+      "path": "ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar",
+      "name": "ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar",
+      "size": 78625,
+      "sha1": "3e13ad86b2cc4107b8a18eec1d980ed19cdc37aa"
+    },
+    {
+      "path": "RPG-Stash-0.6.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/RPG-Stash-0.6.0.jar",
+      "name": "RPG-Stash-0.6.0.jar",
+      "size": 99108,
+      "sha1": "a1406223accff5d0714d320214eed351ef70e265"
+    },
+    {
+      "path": "rrls-4.0.6.1+mc1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/rrls-4.0.6.1+mc1.20.1-forge.jar",
+      "name": "rrls-4.0.6.1+mc1.20.1-forge.jar",
+      "size": 277896,
+      "sha1": "c8f154b0b03dde15c5e901fc7c0c7c701466211d"
+    },
+    {
+      "path": "rusticdelight-forge-1.20.1-1.4.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/rusticdelight-forge-1.20.1-1.4.1.jar",
+      "name": "rusticdelight-forge-1.20.1-1.4.1.jar",
+      "size": 461282,
+      "sha1": "5519aad2d247e5a90fe23ff5eb33fb2c71ab5716"
+    },
+    {
+      "path": "ScorchedGunsFlintlocks-0.1.0-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/ScorchedGunsFlintlocks-0.1.0-1.20.1.jar",
+      "name": "ScorchedGunsFlintlocks-0.1.0-1.20.1.jar",
+      "size": 7672720,
+      "sha1": "5d74e4ea0b798add1afe81dcd02b847d734d0d74"
+    },
+    {
+      "path": "Scribble-1.5.1+mc1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Scribble-1.5.1+mc1.20.1-forge.jar",
+      "name": "Scribble-1.5.1+mc1.20.1-forge.jar",
+      "size": 270676,
+      "sha1": "27c1cf656d8817e489a778a562b7f06711e13a09"
+    },
+    {
+      "path": "servercore-forge-1.5.2+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/servercore-forge-1.5.2+1.20.1.jar",
+      "name": "servercore-forge-1.5.2+1.20.1.jar",
+      "size": 1508496,
+      "sha1": "75c6418edc76da55ec89f417e8c43c9d1873fceb"
+    },
+    {
+      "path": "ShieldBannerFix-Forge-1.20.1-5.0.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/ShieldBannerFix-Forge-1.20.1-5.0.1.jar",
+      "name": "ShieldBannerFix-Forge-1.20.1-5.0.1.jar",
+      "size": 37078,
+      "sha1": "004da821faef53d231bc807634bcb9619aa86256"
+    },
+    {
+      "path": "ships-3.0.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/ships-3.0.3.jar",
+      "name": "ships-3.0.3.jar",
+      "size": 493126,
+      "sha1": "ff5a5aee5cf073cb66f565f314e5d71fe4418d2f"
+    },
+    {
+      "path": "SimpleCoreLib-1.20.1-6.0.1.2.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/SimpleCoreLib-1.20.1-6.0.1.2.jar",
+      "name": "SimpleCoreLib-1.20.1-6.0.1.2.jar",
+      "size": 175942,
+      "sha1": "1a97a3f1bce416d27c2879e1f497a4852862da54"
+    },
+    {
+      "path": "simplevoicechat_broadcast-mc1.20.1-1.0.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/simplevoicechat_broadcast-mc1.20.1-1.0.1.jar",
+      "name": "simplevoicechat_broadcast-mc1.20.1-1.0.1.jar",
+      "size": 7302,
+      "sha1": "0e5a9ccb497c0251ba0fce10e265989fb13a8a80"
+    },
+    {
+      "path": "skinlayers3d-forge-1.10.1-mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/skinlayers3d-forge-1.10.1-mc1.20.1.jar",
+      "name": "skinlayers3d-forge-1.10.1-mc1.20.1.jar",
+      "size": 2156619,
+      "sha1": "896aed39ccc8ecf13936b0b60c9fd55a92a18a6b"
+    },
+    {
+      "path": "skinrestorer-2.5.0+1.20-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/skinrestorer-2.5.0+1.20-forge.jar",
+      "name": "skinrestorer-2.5.0+1.20-forge.jar",
+      "size": 213585,
+      "sha1": "527147cb9f5b840dc897e026478b038a167ad978"
+    },
+    {
+      "path": "sliceanddice-forge-3.6.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/sliceanddice-forge-3.6.0.jar",
+      "name": "sliceanddice-forge-3.6.0.jar",
+      "size": 588268,
+      "sha1": "a4e47dbf4382ebe092b6c2cb71919e412b456d84"
+    },
+    {
+      "path": "soulslike-weaponry-1.3.1-1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/soulslike-weaponry-1.3.1-1.20.1-forge.jar",
+      "name": "soulslike-weaponry-1.3.1-1.20.1-forge.jar",
+      "size": 54320416,
+      "sha1": "a771d8891947dc2a7c48e90e0aad58962c133906"
+    },
+    {
+      "path": "sparsestructures-forge-1.20.1-3.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/sparsestructures-forge-1.20.1-3.0.jar",
+      "name": "sparsestructures-forge-1.20.1-3.0.jar",
+      "size": 121055,
+      "sha1": "3a14160106a66c54ce47c5e26d8a20c70b44d4c1"
+    },
+    {
+      "path": "squaremap-forge-mc1.20.1-1.2.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/squaremap-forge-mc1.20.1-1.2.0.jar",
+      "name": "squaremap-forge-mc1.20.1-1.2.0.jar",
+      "size": 7910734,
+      "sha1": "199db4b1f962ab4bf76b4027909c5a0a9e8615ec"
+    },
+    {
+      "path": "Steam_Rails-1.7.1+forge-mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Steam_Rails-1.7.1+forge-mc1.20.1.jar",
+      "name": "Steam_Rails-1.7.1+forge-mc1.20.1.jar",
+      "size": 16748161,
+      "sha1": "93c32e96f463f5d4758e939916c7a8de79bd6212"
+    },
+    {
+      "path": "stolas_runic_coins-1.2.0-forge-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/stolas_runic_coins-1.2.0-forge-1.20.1.jar",
+      "name": "stolas_runic_coins-1.2.0-forge-1.20.1.jar",
+      "size": 48217,
+      "sha1": "ef2b52da6b41bf6cfb3e61db1e0a43f1f8b3f10d"
+    },
+    {
+      "path": "storagedelight-25.12.09-1.20-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/storagedelight-25.12.09-1.20-forge.jar",
+      "name": "storagedelight-25.12.09-1.20-forge.jar",
+      "size": 622996,
+      "sha1": "7df2c44c5ca02e3d550b46d543143935f7c6748b"
+    },
+    {
+      "path": "structure_gel-1.20.1-2.16.2.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/structure_gel-1.20.1-2.16.2.jar",
+      "name": "structure_gel-1.20.1-2.16.2.jar",
+      "size": 966028,
+      "sha1": "ec8c59d2a69eca3249a8da673f572b40b6d59895"
+    },
+    {
+      "path": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "name": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "size": 206584,
+      "sha1": "f80f9eed728966adcfbcc848633e789645057281"
+    },
+    {
+      "path": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+      "name": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+      "size": 515362,
+      "sha1": "d37e1148b512c67cee704635b4f07d1f9ea8c31c"
+    },
+    {
+      "path": "supplementaries-1.20-3.1.42-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/supplementaries-1.20-3.1.42-forge.jar",
+      "name": "supplementaries-1.20-3.1.42-forge.jar",
+      "size": 13661432,
+      "sha1": "c9e2f6c813eef73843d869ff5611f155af7467fb"
+    },
+    {
+      "path": "s_a_b-1.4.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/s_a_b-1.4.3.jar",
+      "name": "s_a_b-1.4.3.jar",
+      "size": 1876495,
+      "sha1": "ee41d57650ca5f5f5d913470f82cd494721a8a02"
+    },
+    {
+      "path": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "name": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "size": 107533,
+      "sha1": "b3dbaf1aac31601b9efb19e4c67646750041968a"
+    },
+    {
+      "path": "tia-1.20-1.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/tia-1.20-1.1-forge.jar",
+      "name": "tia-1.20-1.1-forge.jar",
+      "size": 11766,
+      "sha1": "bd1eac323a351355d21ddf720fb0503020c77928"
+    },
+    {
+      "path": "ticktweaks-forge-1.2.5.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/ticktweaks-forge-1.2.5.jar",
+      "name": "ticktweaks-forge-1.2.5.jar",
+      "size": 36316,
+      "sha1": "097c54a87a6d8453bfcc3a90a8343c8b2f58af42"
+    },
+    {
+      "path": "Too Many Trims v1.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Too Many Trims v1.0.jar",
+      "name": "Too Many Trims v1.0.jar",
+      "size": 269861,
+      "sha1": "2d524e138ed23533a8f7eed6e3af53c18986094b"
+    },
+    {
+      "path": "tooltipoverhaul-forge-1.20.1-1.3.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/tooltipoverhaul-forge-1.20.1-1.3.0.jar",
+      "name": "tooltipoverhaul-forge-1.20.1-1.3.0.jar",
+      "size": 332024,
+      "sha1": "ff708cac50ff8c776781ebb2dbb7209fd3efaa3b"
+    },
+    {
+      "path": "trackwork-1.20.1-1.2.3.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/trackwork-1.20.1-1.2.3.jar",
+      "name": "trackwork-1.20.1-1.2.3.jar",
+      "size": 576332,
+      "sha1": "458e00fcd2afb2fabf634edc118f8d651c8857f5"
+    },
+    {
+      "path": "travelersbackpack-forge-1.20.1-9.1.46.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/travelersbackpack-forge-1.20.1-9.1.46.jar",
+      "name": "travelersbackpack-forge-1.20.1-9.1.46.jar",
+      "size": 1288835,
+      "sha1": "a5b2c2fdedb39d071c6bfc150ed7b32aadff4e58"
+    },
+    {
+      "path": "TravelersTitles-1.20-Forge-4.0.2.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/TravelersTitles-1.20-Forge-4.0.2.jar",
+      "name": "TravelersTitles-1.20-Forge-4.0.2.jar",
+      "size": 228191,
+      "sha1": "64a435eaa6e08fff5af2c720c3b6a40fe292f2f7"
+    },
+    {
+      "path": "tru.e-ending-v1.1.0c.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/tru.e-ending-v1.1.0c.jar",
+      "name": "tru.e-ending-v1.1.0c.jar",
+      "size": 5525883,
+      "sha1": "ab318879312d428eda430006efd14911a15ddd44"
+    },
+    {
+      "path": "Twigs-1.20.1-3.1.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Twigs-1.20.1-3.1.1.jar",
+      "name": "Twigs-1.20.1-3.1.1.jar",
+      "size": 2766476,
+      "sha1": "704711f8abebf051945dca2ae2a1eba9c3405c57"
+    },
+    {
+      "path": "txnilib-forge-1.0.24-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/txnilib-forge-1.0.24-1.20.1.jar",
+      "name": "txnilib-forge-1.0.24-1.20.1.jar",
+      "size": 3743339,
+      "sha1": "a1e16b7d61f0f16a162d429ee1eab9b4e3eeb9ef"
+    },
+    {
+      "path": "valkyrienskies-120-2.4.10.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/valkyrienskies-120-2.4.10.jar",
+      "name": "valkyrienskies-120-2.4.10.jar",
+      "size": 27249986,
+      "sha1": "4e6662cacbbe863871d4d4ddcbfa3ca9c43a16c6"
+    },
+    {
+      "path": "vanillabackport-forge-1.20.1-1.1.5.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/vanillabackport-forge-1.20.1-1.1.5.1.jar",
+      "name": "vanillabackport-forge-1.20.1-1.1.5.1.jar",
+      "size": 28004226,
+      "sha1": "77551f2c12f9ad1db0bcc4c2819e0914b0111326"
+    },
+    {
+      "path": "Vanishmod-1.20.1-1.1.20.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/Vanishmod-1.20.1-1.1.20.jar",
+      "name": "Vanishmod-1.20.1-1.1.20.jar",
+      "size": 74019,
+      "sha1": "5c72139eed916c187a81a389a60123c633860b22"
+    },
+    {
+      "path": "vegandelight-1.4.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/vegandelight-1.4.jar",
+      "name": "vegandelight-1.4.jar",
+      "size": 162855,
+      "sha1": "28de8bba483824306c4fced98a88780db84e16fe"
+    },
+    {
+      "path": "VeggiesDelight-1.20.1-1.9.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/VeggiesDelight-1.20.1-1.9.1.jar",
+      "name": "VeggiesDelight-1.20.1-1.9.1.jar",
+      "size": 575765,
+      "sha1": "57e708a9839fb834258332d51f7c76f7d5315783"
+    },
+    {
+      "path": "villager_rafts-1.0.0-forge-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/villager_rafts-1.0.0-forge-1.20.1.jar",
+      "name": "villager_rafts-1.0.0-forge-1.20.1.jar",
+      "size": 21781,
+      "sha1": "064b2e157443aa1073d9e34a97cf23eab7c39f17"
+    },
+    {
+      "path": "vintagedelight-0.1.6.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/vintagedelight-0.1.6.jar",
+      "name": "vintagedelight-0.1.6.jar",
+      "size": 1120218,
+      "sha1": "279a68afc8d815e957cabc689e925cdaf7578109"
+    },
+    {
+      "path": "voicechat-forge-1.20.1-2.6.8.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/voicechat-forge-1.20.1-2.6.8.jar",
+      "name": "voicechat-forge-1.20.1-2.6.8.jar",
+      "size": 4891763,
+      "sha1": "a2e46ee990febbf1a40a8a9da3f8e60f492094bf"
+    },
+    {
+      "path": "waveycapes-forge-1.8.1-mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/waveycapes-forge-1.8.1-mc1.20.1.jar",
+      "name": "waveycapes-forge-1.8.1-mc1.20.1.jar",
+      "size": 1840296,
+      "sha1": "34152f2e9247f66e237da4f7f3652d852d64700d"
+    },
+    {
+      "path": "weaponleveling-1.20.1-2.2.2-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/weaponleveling-1.20.1-2.2.2-forge.jar",
+      "name": "weaponleveling-1.20.1-2.2.2-forge.jar",
+      "size": 238858,
+      "sha1": "1339ba33238241f4122e22853ee18d8bcfcd151d"
+    },
+    {
+      "path": "withering-heights-alpha-1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/withering-heights-alpha-1.jar",
+      "name": "withering-heights-alpha-1.jar",
+      "size": 140291,
+      "sha1": "8f28b1a715e10995bd241d94381d050f54d960e2"
+    },
+    {
+      "path": "wonderoussea-1.0.0-forge-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/wonderoussea-1.0.0-forge-1.20.1.jar",
+      "name": "wonderoussea-1.0.0-forge-1.20.1.jar",
+      "size": 4019113,
+      "sha1": "6737e222d6b6bb7dc64790b51ed6bdcba08929ae"
+    },
+    {
+      "path": "world_preview-forge-1.20.1-1.3.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/world_preview-forge-1.20.1-1.3.1.jar",
+      "name": "world_preview-forge-1.20.1-1.3.1.jar",
+      "size": 370743,
+      "sha1": "98067c700d31f1b716cfbd6ddbeefd772bbba5bb"
+    },
+    {
+      "path": "xaerominimap-forge-1.20.1-25.3.10.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/xaerominimap-forge-1.20.1-25.3.10.jar",
+      "name": "xaerominimap-forge-1.20.1-25.3.10.jar",
+      "size": 2146522,
+      "sha1": "fef773ef4cbfa240a55236f3e8d6add20eb2add1"
+    },
+    {
+      "path": "xaeros-map-server-utils-1.1.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/xaeros-map-server-utils-1.1.0.jar",
+      "name": "xaeros-map-server-utils-1.1.0.jar",
+      "size": 18846,
+      "sha1": "b6f70ed932ac5bde687eb56e3929a89266c9a485"
+    },
+    {
+      "path": "xaeroworldmap-forge-1.20.1-1.40.11.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/xaeroworldmap-forge-1.20.1-1.40.11.jar",
+      "name": "xaeroworldmap-forge-1.20.1-1.40.11.jar",
+      "size": 1388342,
+      "sha1": "0a5d068b6aa72c69b79e7ab7da47ef64f96e5b7c"
+    },
+    {
+      "path": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "name": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "size": 1105891,
+      "sha1": "644731e321c53a35a0b3177a3cc6347fe38002f4"
+    },
+    {
+      "path": "YungsApi-1.20-Forge-4.0.6.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/YungsApi-1.20-Forge-4.0.6.jar",
+      "name": "YungsApi-1.20-Forge-4.0.6.jar",
+      "size": 370524,
+      "sha1": "af584b690f5646c6032002b58abc4591beed3833"
+    },
+    {
+      "path": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "name": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "size": 806652,
+      "sha1": "0b3c8556983895fea980247bb4d437ca535e7259"
+    },
+    {
+      "path": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "name": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "size": 492998,
+      "sha1": "e2cbc574807a994bb9610184eb4bbfe29a6c0774"
+    },
+    {
+      "path": "[1.20-1.20.1]+Comics+Bubbles+Chat-1.3.4.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.0.0/[1.20-1.20.1]+Comics+Bubbles+Chat-1.3.4.jar",
+      "name": "[1.20-1.20.1]+Comics+Bubbles+Chat-1.3.4.jar",
+      "size": 59047,
+      "sha1": "e2cbc574807a994bb9610184eb4bbfe29a6c0774"
+    }
+  ]
+}
