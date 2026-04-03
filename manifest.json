@@ -1615,14 +1615,14 @@
     {
       "filename": "options.txt",
       "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/options.txt",
-      "overwrite": false,
-      "comment": "Налаштування гри — не перезаписується якщо вже є"
+      "overwrite": true,
+      "comment": "перезаписується при оновленні"
     },
     {
       "filename": "keybindings.json",
       "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/keybindings.json",
       "overwrite": false,
-      "comment": "Keybinds — не перезаписується якщо вже є"
+      "comment": "не перезаписується якщо вже є"
     }
   ]
 }
