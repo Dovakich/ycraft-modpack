@@ -29,7 +29,7 @@
     },
     {
       "filename": "antixray-forge-1.4.6+1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/antixray-forge-1.4.6+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/antixray-forge-1.4.6%2B1.20.1.jar",
       "sha1": "06d5dad3c1c96bdb8e3498d1330ac59c01eb744e",
       "size": 304769
     },
@@ -113,7 +113,7 @@
     },
     {
       "filename": "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/bellsandwhistles-0.4.5-1.20.x-Create6.0%2B.jar",
       "sha1": "2487eea5f1368d70e16c7c6a08c18be3b5d3c0d0",
       "size": 199902
     },
@@ -137,7 +137,7 @@
     },
     {
       "filename": "bettercombat-forge-1.9.0+1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/bettercombat-forge-1.9.0+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/bettercombat-forge-1.9.0%2B1.20.1.jar",
       "sha1": "ea7e7247132cb3acacadd96b2b6b635c4cc63a74",
       "size": 1054339
     },
@@ -203,13 +203,13 @@
     },
     {
       "filename": "caelus-forge-3.2.0+1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/caelus-forge-3.2.0+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/caelus-forge-3.2.0%2B1.20.1.jar",
       "sha1": "d14e8ee892d4d8764f523ad0e89bdcfc061fb007",
       "size": 40125
     },
     {
       "filename": "CameraOverhaul-v2.0.5-forge+mc.1.20.0-1.20.5.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/CameraOverhaul-v2.0.5-forge+mc.1.20.0-1.20.5.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/CameraOverhaul-v2.0.5-forge%2Bmc.1.20.0-1.20.5.jar",
       "sha1": "d14e8ee892d4d8764f523ad0e89bdcfc061fb007",
       "size": 141086
     },
@@ -251,7 +251,7 @@
     },
     {
       "filename": "civillis-forge-1.0.0-release+mc1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/civillis-forge-1.0.0-release+mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/civillis-forge-1.0.0-release%2Bmc1.20.1.jar",
       "sha1": "ad4c78b5cf4cf365fb53a3c79607109ba8ce9189",
       "size": 7523570
     },
@@ -281,13 +281,13 @@
     },
     {
       "filename": "combatroll-forge-1.3.3+1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/combatroll-forge-1.3.3+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/combatroll-forge-1.3.3%2B1.20.1.jar",
       "sha1": "4ff92ecd8df9b5a280330f68ef9c7a8a2300b23f",
       "size": 217962
     },
     {
       "filename": "comforts-forge-6.4.0+1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/comforts-forge-6.4.0+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/comforts-forge-6.4.0%2B1.20.1.jar",
       "sha1": "e7b9fe89566bb1ee013e33745f22f309f679536e",
       "size": 382083
     },
@@ -317,7 +317,7 @@
     },
     {
       "filename": "copycats-3.0.4+mc.1.20.1-forge.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/copycats-3.0.4+mc.1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/copycats-3.0.4%2Bmc.1.20.1-forge.jar",
       "sha1": "11be262d6149d01b2c808bb091a9dfb839e71a41",
       "size": 1989232
     },
@@ -365,7 +365,7 @@
     },
     {
       "filename": "create-new-age-1.1.7b+forge-mc1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/create-new-age-1.1.7b+forge-mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/create-new-age-1.1.7b%2Bforge-mc1.20.1.jar",
       "sha1": "7ccececc1eb190b0cd6d9f98d1b1fb4e82e11e52",
       "size": 1144325
     },
@@ -377,7 +377,7 @@
     },
     {
       "filename": "createbigcannons-5.11.1+mc.1.20.1-forge.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/createbigcannons-5.11.1+mc.1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/createbigcannons-5.11.1%2Bmc.1.20.1-forge.jar",
       "sha1": "9a1cb09472d86a1ebbe0d851a2474ad9030144f0",
       "size": 4039085
     },
@@ -401,7 +401,7 @@
     },
     {
       "filename": "CreateTankDefenses v0.80.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/CreateTankDefenses v0.80.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/CreateTankDefenses%20v0.80.jar",
       "sha1": "1faaf93d247e642386a8fe9a665300a8fd387a45",
       "size": 7437016
     },
@@ -485,7 +485,7 @@
     },
     {
       "filename": "curios-forge-5.14.1+1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/curios-forge-5.14.1%2B1.20.1.jar",
       "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
       "size": 398066
     },
@@ -527,7 +527,7 @@
     },
     {
       "filename": "Drip Sounds-0.5.2+1.20.4-Forge.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Drip Sounds-0.5.2+1.20.4-Forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Drip%20Sounds-0.5.2%2B1.20.4-Forge.jar",
       "sha1": "669a07ccf583536e016558a30a3404ce9e86e78c",
       "size": 58958
     },
@@ -539,7 +539,7 @@
     },
     {
       "filename": "dungeons+-1.8.4b.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/dungeons+-1.8.4b.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/dungeons%2B-1.8.4b.jar",
       "sha1": "7738ad597e6489d4bd702e03aaad086acd4e77f7",
       "size": 184122
     },
@@ -563,7 +563,7 @@
     },
     {
       "filename": "dynamiccrosshair-9.10+1.20.1-forge.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/dynamiccrosshair-9.10+1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/dynamiccrosshair-9.10%2B1.20.1-forge.jar",
       "sha1": "9ec4f7fefa33d1be77883a080f69b2bc9c521ea4",
       "size": 879924
     },
@@ -617,7 +617,7 @@
     },
     {
       "filename": "embeddium-0.3.31+mc1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/embeddium-0.3.31%2Bmc1.20.1.jar",
       "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
       "size": 1320675
     },
@@ -677,7 +677,7 @@
     },
     {
       "filename": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar",
       "sha1": "285c22b2567b9fdf98ef9808eceb5557de9611d3",
       "size": 3065813
     },
@@ -725,7 +725,7 @@
     },
     {
       "filename": "freecam-forge-1.2.1+1.20.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/freecam-forge-1.2.1+1.20.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/freecam-forge-1.2.1%2B1.20.jar",
       "sha1": "e4224b56750a1fe3956ae73a65f4470be3e0df3b",
       "size": 75389
     },
@@ -773,7 +773,7 @@
     },
     {
       "filename": "hide-item-frame-forge-1.3+1.17.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/hide-item-frame-forge-1.3+1.17.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/hide-item-frame-forge-1.3%2B1.17.1.jar",
       "sha1": "d28a58f6159c07caccd4161d05f31ca4e790a334",
       "size": 48760
     },
@@ -803,19 +803,19 @@
     },
     {
       "filename": "ImmediatelyFast-Forge-1.5.3+1.20.4.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/ImmediatelyFast-Forge-1.5.3+1.20.4.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/ImmediatelyFast-Forge-1.5.3%2B1.20.4.jar",
       "sha1": "d4695d013e9da7089e2906db3f56bc5398e478e2",
       "size": 426980
     },
     {
       "filename": "immersive_armors-1.7.1+1.20.1-forge.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/immersive_armors-1.7.1+1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/immersive_armors-1.7.1%2B1.20.1-forge.jar",
       "sha1": "5311ad33c339bbed4f1c66830a9f19d285d4cad3",
       "size": 1264289
     },
     {
       "filename": "immersive_melodies-0.6.0+1.20.1-forge.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/immersive_melodies-0.6.0+1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/immersive_melodies-0.6.0%2B1.20.1-forge.jar",
       "sha1": "688f2b905c99a2d2c86f016eb09712d978f99102",
       "size": 5517578
     },
@@ -959,19 +959,19 @@
     },
     {
       "filename": "Luminous Monsters V1.2.8 - Forge 1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Luminous Monsters V1.2.8 - Forge 1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Luminous%20Monsters%20V1.2.8%20-%20Forge%201.20.1.jar",
       "sha1": "3025fc2d490f72668f1280211b5ce5ede6073b0e",
       "size": 825004
     },
     {
       "filename": "Luminous Overworld V1.5.3 - Forge 1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Luminous Overworld V1.5.3 - Forge 1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Luminous%20Overworld%20V1.5.3%20-%20Forge%201.20.1.jar",
       "sha1": "bcd30818f5b49ccb25fb5be0910d74538f7e33d2",
       "size": 23357080
     },
     {
       "filename": "LuminousBeast V1.2.6 - Forge 1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/LuminousBeast V1.2.6 - Forge 1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/LuminousBeast%20V1.2.6%20-%20Forge%201.20.1.jar",
       "sha1": "72d2977891da8fe6975a67e55dfa207c80dbb032",
       "size": 25915005
     },
@@ -1055,7 +1055,7 @@
     },
     {
       "filename": "modernfix-forge-5.25.2+mc1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/modernfix-forge-5.25.2+mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/modernfix-forge-5.25.2%2Bmc1.20.1.jar",
       "sha1": "4069534174e618393f0c14d9dc61ac27a04bb992",
       "size": 895444
     },
@@ -1097,7 +1097,7 @@
     },
     {
       "filename": "naturalist-5.0pre2+forge-1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/naturalist-5.0pre2+forge-1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/naturalist-5.0pre2%2Bforge-1.20.1.jar",
       "sha1": "e0ddee72643c92f2b4754fa4d24c16d79eba343a",
       "size": 3793857
     },
@@ -1133,7 +1133,7 @@
     },
     {
       "filename": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar",
       "sha1": "9eab28baff36942e1c924489e34753df10f40208",
       "size": 424035
     },
@@ -1175,19 +1175,19 @@
     },
     {
       "filename": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
       "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
       "size": 181437
     },
     {
       "filename": "polymorph-forge-0.49.10+1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/polymorph-forge-0.49.10+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/polymorph-forge-0.49.10%2B1.20.1.jar",
       "sha1": "e4afd6f512cc06311320357ed974cee586e031c3",
       "size": 299601
     },
     {
       "filename": "potion-cauldron-forge-1.0.1+mc1.20.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/potion-cauldron-forge-1.0.1+mc1.20.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/potion-cauldron-forge-1.0.1%2Bmc1.20.jar",
       "sha1": "fd85b61a9e1149d42e23b750514f20a58639347b",
       "size": 115195
     },
@@ -1199,7 +1199,7 @@
     },
     {
       "filename": "projectile_damage-forge-3.2.2+1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/projectile_damage-forge-3.2.2+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/projectile_damage-forge-3.2.2%2B1.20.1.jar",
       "sha1": "9c7378a0b9905d032c8bb5a6f72866229bfe4ed6",
       "size": 251688
     },
@@ -1217,7 +1217,7 @@
     },
     {
       "filename": "Quick Skin - Forge - 1.20.1-2.6.0.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Quick Skin - Forge - 1.20.1-2.6.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Quick%20Skin%20-%20Forge%20-%201.20.1-2.6.0.jar",
       "sha1": "db3bd9ce512eac1358341af7a375596fee3b726a",
       "size": 3714676
     },
@@ -1253,7 +1253,7 @@
     },
     {
       "filename": "Revamped Shipwrecks 1.1.0.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Revamped Shipwrecks 1.1.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Revamped%20Shipwrecks%201.1.0.jar",
       "sha1": "9cc0d86f14ebc88df141835930681b4a96aa7204",
       "size": 6935951
     },
@@ -1271,7 +1271,7 @@
     },
     {
       "filename": "ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/ritchiesprojectilelib-2.1.1%2Bmc.1.20.1-forge.jar",
       "sha1": "3e13ad86b2cc4107b8a18eec1d980ed19cdc37aa",
       "size": 78625
     },
@@ -1283,7 +1283,7 @@
     },
     {
       "filename": "rrls-4.0.6.1+mc1.20.1-forge.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/rrls-4.0.6.1+mc1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/rrls-4.0.6.1%2Bmc1.20.1-forge.jar",
       "sha1": "c8f154b0b03dde15c5e901fc7c0c7c701466211d",
       "size": 277896
     },
@@ -1301,13 +1301,13 @@
     },
     {
       "filename": "Scribble-1.5.1+mc1.20.1-forge.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Scribble-1.5.1+mc1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Scribble-1.5.1%2Bmc1.20.1-forge.jar",
       "sha1": "27c1cf656d8817e489a778a562b7f06711e13a09",
       "size": 270676
     },
     {
       "filename": "servercore-forge-1.5.2+1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/servercore-forge-1.5.2+1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/servercore-forge-1.5.2%2B1.20.1.jar",
       "sha1": "75c6418edc76da55ec89f417e8c43c9d1873fceb",
       "size": 1508496
     },
@@ -1343,7 +1343,7 @@
     },
     {
       "filename": "skinrestorer-2.5.0+1.20-forge.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/skinrestorer-2.5.0+1.20-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/skinrestorer-2.5.0%2B1.20-forge.jar",
       "sha1": "527147cb9f5b840dc897e026478b038a167ad978",
       "size": 213585
     },
@@ -1373,7 +1373,7 @@
     },
     {
       "filename": "Steam_Rails-1.7.1+forge-mc1.20.1.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Steam_Rails-1.7.1+forge-mc1.20.1.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Steam_Rails-1.7.1%2Bforge-mc1.20.1.jar",
       "sha1": "93c32e96f463f5d4758e939916c7a8de79bd6212",
       "size": 16748161
     },
@@ -1439,7 +1439,7 @@
     },
     {
       "filename": "Too Many Trims v1.0.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Too Many Trims v1.0.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Too%20Many%20Trims%20v1.0.jar",
       "sha1": "2d524e138ed23533a8f7eed6e3af53c18986094b",
       "size": 269861
     },
@@ -1583,7 +1583,7 @@
     },
     {
       "filename": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar",
       "sha1": "644731e321c53a35a0b3177a3cc6347fe38002f4",
       "size": 1105891
     },
@@ -1607,7 +1607,7 @@
     },
     {
       "filename": "Comics+Bubbles+Chat-1.3.4.jar",
-      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Comics+Bubbles+Chat-1.3.4.jar",
+      "url": "https://github.com/Dovakich/ycraft-modpack/releases/download/v1.1.0/Comics%2BBubbles%2BChat-1.3.4.jar",
       "sha1": "e2cbc574807a994bb9610184eb4bbfe29a6c0774",
       "size": 59047
     }
